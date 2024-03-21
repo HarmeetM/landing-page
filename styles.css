@@ -9,7 +9,7 @@ White = #FFFFFF
 
 @font-face {
     font-family: "pocket-monk";
-    src: url('/content/PocketMonk-15ze.ttf');
+    src: url('content/PocketMonk-15ze.ttf');
 }
 
 body {
